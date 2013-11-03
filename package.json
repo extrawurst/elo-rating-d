@@ -4,6 +4,7 @@
 	"description": "ELO rating system in D",
 	"homepage": "https://github.com/Extrawurst/elo-rating-d",
 	"copyright": "Copyright © 2013, Stephan Dilly",
+	"license": "MIT",
 	"authors": [
 		"Stephan Dilly"
 	]
