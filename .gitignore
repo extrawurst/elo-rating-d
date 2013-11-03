@@ -1,0 +1,10 @@
+.dub/
+*.sln
+*.pdb
+*.visualdproj
+*.suo
+*.userprefs
+glicko2-d.exe
+glicko2-d_d.exe
+glicko2-d_d.exe_cv
+temp.obj
