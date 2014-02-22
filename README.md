@@ -1,5 +1,6 @@
 elo-rating-d
 ============
+[![Build Status](https://api.travis-ci.org/Extrawurst/elo-rating-d.png)](https://travis-ci.org/Extrawurst/elo-rating-d)
 
 Simple implementation of the famous ELO Rating formular (https://en.wikipedia.org/wiki/Elo_rating_system) written in the D programming language (http://dlang.org/).
 
