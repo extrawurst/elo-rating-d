@@ -30,11 +30,13 @@ struct RatingSystem
 		return newRating;
 	}
 
-	private static double GetExpectedScore (int rating, int opponentRating) {
+	private static double GetExpectedScore (int rating, int opponentRating) 
+	{
 		return 1.0 / (1.0 + pow(10.0, (cast(double) (opponentRating - rating) / 400.0)));
 	}
 
-	private static int CalculateNewRating(int oldRating, double score, double expectedScore, double _kFactor) {
+	private static int CalculateNewRating(int oldRating, double score, double expectedScore, double _kFactor) 
+	{
 		return oldRating + cast(int) (_kFactor * (score - expectedScore));
 	}
 }

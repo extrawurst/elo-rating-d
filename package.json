@@ -1,9 +1,8 @@
 {
 	"name": "elo-rating-d",
-	"version": "0.0.2",
 	"description": "ELO rating system in D",
 	"homepage": "https://github.com/Extrawurst/elo-rating-d",
-	"copyright": "Copyright © 2013, Stephan Dilly",
+	"copyright": "Copyright © 2014, Stephan Dilly",
 	"license": "MIT",
 	"authors": [
 		"Stephan Dilly"
