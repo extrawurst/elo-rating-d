@@ -1,11 +1,11 @@
 elo-rating-d
 ============
-[![Build Status](https://api.travis-ci.org/Extrawurst/elo-rating-d.png)](https://travis-ci.org/Extrawurst/elo-rating-d)
+[![Build Status](https://api.travis-ci.org/Extrawurst/elo-rating-d.svg)](https://travis-ci.org/Extrawurst/elo-rating-d)
 
-Simple implementation of the famous ELO Rating formular (https://en.wikipedia.org/wiki/Elo_rating_system) written in the D programming language (http://dlang.org/).
+Simple implementation of the famous [ELO Rating formular](https://en.wikipedia.org/wiki/Elo_rating_system) written in the [D programming language](http://dlang.org/).
 
 Tested with dmd >=2.063.2.
-This project is a dub package (http://code.dlang.org/packages/elo-rating-d)
+This project is a [dub package](http://code.dlang.org/packages/elo-rating-d)
 
 usage:
 ============
