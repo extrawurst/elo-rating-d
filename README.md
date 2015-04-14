@@ -1,6 +1,5 @@
-elo-rating-d
+elo-rating-d [![Build Status](https://api.travis-ci.org/Extrawurst/elo-rating-d.svg)](https://travis-ci.org/Extrawurst/elo-rating-d) [![Coverage Status](https://coveralls.io/repos/Extrawurst/elo-rating-d/badge.svg)](https://coveralls.io/r/Extrawurst/elo-rating-d)
 ============
-[![Build Status](https://api.travis-ci.org/Extrawurst/elo-rating-d.svg)](https://travis-ci.org/Extrawurst/elo-rating-d)
 
 Simple implementation of the famous [ELO Rating formular](https://en.wikipedia.org/wiki/Elo_rating_system) written in the [D programming language](http://dlang.org/).
 
